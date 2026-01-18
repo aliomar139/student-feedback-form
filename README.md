@@ -12,3 +12,21 @@ React student feedback form with professional validation, course selection, star
 
 ## 🧱 Project Structure
 
+react-labs-8-9/
+├─ src/
+│ ├─ styles/
+│ │ └─ app.css
+│ ├─ App.jsx
+│ └─ main.jsx
+├─ .gitignore
+├─ index.html
+├─ package.json
+└─ vite.config.js
+
+## 💻 Getting Started
+
+### 🔧 Install dependencies
+
+```bash
+npm install
+npm run dev
